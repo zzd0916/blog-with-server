@@ -1,6 +1,6 @@
 ﻿# my-blog-server
 
-> 使用了nodejs，mysql做完后台读写数据， vue.js作为前端框架，包含了vuex,axios,vue-router等插件。
+> 一个简单的blog展示以及添加功能,使用了nodejs，mysql做完后台读写数据， vue.js作为前端框架，包含了vuex,axios,vue-router等插件。
 
 
 # 说明
