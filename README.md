@@ -7,7 +7,7 @@
 <ol>
 <li>npm install 安装项目依赖
 </li>
-<li>server文件夹中修改db.js里面的配置你自己的数据库信息</li>
+<li>server文件夹中修改db.js,配置你自己的数据库信息</li>
 <li>npm run dev启动项目</li>
 <li>在server文件夹中使用node index.js命令启动后台服务器</li>
 </ol>
